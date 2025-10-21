@@ -9,12 +9,20 @@
         ├── requirements.txt
     └── 📁artifacts
     └── 📁data
+        └── 📁docs
+            ├── AI business model innovation.pdf
+            ├── BI approaches.pdf
+            ├── Time-Series-Data-Prediction-using-IoT-and-Machine-Le_2020_Procedia-Computer-.pdf
+            ├── Walmarts sales data analysis.pdf
+        ├── sales_data.csv
     └── 📁etl
         ├── index_docs.py
         ├── run.py
     └── 📁ui
         ├── app.py
         ├── Dockerfile
+        ├── intellect-bi-logo.png
+        ├── prompt.txt
         ├── requirements.txt
     └── 📁vector
     ├── .gitignore
