@@ -20,6 +20,7 @@ It enables natural-language querying of structured (CSV) and unstructured (PDF) 
 ---
 
 ## 🧩 Architecture Overview
+```
 +--------------------------+
 | Streamlit UI |
 | (ui/app.py, logo, tabs) |
@@ -42,7 +43,7 @@ v
 | Ollama (LLM) |
 | local model |
 +---------------+
-
+```
 ---
 
 ## 🧠 Core Components
@@ -186,5 +187,7 @@ Largest decline: 2024 Q1 (-6.4%)
 
 ## 🧑‍💻 Authors & Credits
 Travis B.
+
 Senior Cloud / DevOps Engineer • Application Modernization • Generative AI Practitioner
+
 Project developed as part of the Generative AI Specialization Capstone (Purdue University).
