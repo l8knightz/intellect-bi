@@ -1,6 +1,5 @@
 # local working copies (do not track in index repo)
 vector/
-data/
 artifacts/
 
 # common noise
@@ -10,3 +9,25 @@ __pycache__/
 .vscode/
 .idea/
 .env
+
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
+# Build / cache
+
+*.log
+*.sqlite
+*.db
+*.bak
+dist/
+build/
+.cache/
+.pytest_cache/
+*.duckdb
+
+# SDocker
+
+*.pid
