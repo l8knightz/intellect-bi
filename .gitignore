@@ -1,0 +1,12 @@
+# local working copies (do not track in index repo)
+vector/
+data/
+artifacts/
+
+# common noise
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+.env

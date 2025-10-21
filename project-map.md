@@ -1,0 +1,31 @@
+```
+└── 📁intellect-bi
+    └── 📁api
+        ├── analytics.py
+        ├── Dockerfile
+        ├── ingest_docs.py
+        ├── main.py
+        ├── ollama_embedder.py
+        ├── requirements.txt
+    └── 📁artifacts
+    └── 📁data
+    └── 📁etl
+        ├── index_docs.py
+        ├── run.py
+    └── 📁ui
+        ├── app.py
+        ├── Dockerfile
+        ├── requirements.txt
+    └── 📁vector
+    ├── .gitignore
+    ├── data_dictionary.md
+    ├── docker-compose.yml
+    ├── eda_daily_sales.png
+    ├── eda_sales_by_product.png
+    ├── eda_sales_by_region.png
+    ├── eda_summary.md
+    ├── env.example
+    ├── Makefile
+    ├── project-map.md
+    └── README.md
+```

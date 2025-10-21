@@ -1,0 +1,6 @@
+
+streamlit==1.38.0
+requests==2.32.3
+pandas==2.2.2
+matplotlib==3.9.2
+altair==5.4.1
